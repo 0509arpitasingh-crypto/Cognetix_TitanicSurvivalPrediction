@@ -23,17 +23,6 @@ The project follows a complete machine learning pipeline, including data preproc
 * Scikit-learn
 * Jupyter Notebook
 
-## 📂 Project Structure
-
-```text
-titanic-survival-prediction/
-│
-├── data/
-├── task3_titanic_survival_prediction.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## 📊 Workflow
 
 1. Load and explore the Titanic dataset.
