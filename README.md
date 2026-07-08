@@ -45,6 +45,21 @@ titanic-survival-prediction/
 7. Evaluate the model using classification metrics.
 8. Predict passenger survival on unseen data.
 
+## 📊 Output
+
+### Bar Plot 1.0
+
+![Bar Plot](Images/Bar_Plot_0.png)
+
+### Bar Plot 1.1
+
+![Bar Plot](Images/Bar-Plot_1.png)
+
+### Model Evaluation
+
+![Model Evaluation](Images/Model_Evaluation.png)
+
+
 ## 📈 Results
 
 The trained model predicts whether a passenger is likely to survive based on the available features. This project demonstrates the practical application of machine learning for binary classification and highlights the importance of data preprocessing and feature selection in building effective predictive models.
