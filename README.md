@@ -64,13 +64,6 @@ titanic-survival-prediction/
 
 The trained model predicts whether a passenger is likely to survive based on the available features. This project demonstrates the practical application of machine learning for binary classification and highlights the importance of data preprocessing and feature selection in building effective predictive models.
 
-## 🌱 Future Improvements
-
-* Compare the performance of different classification algorithms.
-* Perform hyperparameter tuning for improved accuracy.
-* Deploy the model using Streamlit or Flask.
-* Add a simple user interface for real-time survival predictions.
-
 ---
 
 *This project was completed as part of a Machine Learning internship to strengthen my understanding of data preprocessing, feature engineering, and classification models using Python and Scikit-learn.*
