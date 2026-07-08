@@ -49,15 +49,15 @@ titanic-survival-prediction/
 
 ### Bar Plot 1.0
 
-![Bar Plot](Images/Bar_Plot_0.png)
-
-### Bar Plot 1.1
-
-![Bar Plot](Images/Bar-Plot_1.png)
+![Bar Plot 0](Images/Bar_Plot_0.png)
 
 ### Model Evaluation
 
 ![Model Evaluation](Images/Model_Evaluation.png)
+
+### Bar Plot 1.1
+
+![Bar Plot 1](Images/Bar_Plot_1.png)
 
 
 ## 📈 Results
